@@ -777,3 +777,9 @@ msgstr ""
 
 msgid "Imprint &amp; Privacy Policy"
 msgstr ""
+
+msgid "Contrôle de vitesse par balises (KVB)"
+msgstr "Contrôle de vitesse par balises (KVB)"
+
+msgid "Transmission voie-machine (TVM)"
+msgstr "Transmission voie-machine (TVM)"
